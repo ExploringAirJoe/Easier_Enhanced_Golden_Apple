@@ -1,13 +1,4 @@
 {
-  "itemGroup.eega": "Example Mod Tab",
-  "block.eega.example_block": "Example Block",
-  "item.eega.example_item": "Example Item",
-
-  "eega.configuration.title": "Easier Enhanced Golden Apple Configs",
-  "eega.configuration.section.eega.common.toml": "Easier Enhanced Golden Apple Configs",
-  "eega.configuration.section.eega.common.toml.title": "Easier Enhanced Golden Apple Configs",
-  "eega.configuration.items": "Item List",
-  "eega.configuration.logDirtBlock": "Log Dirt Block",
-  "eega.configuration.magicNumberIntroduction": "Magic Number Text",
-  "eega.configuration.magicNumber": "Magic Number"
+  "item.eega.super_golden_apple" : "超级附魔金苹果",
+  "itemGroup.eega" : "更简单的附魔金苹果"
 }
