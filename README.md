@@ -1,25 +1,9 @@
 
-Installation information
+Easier Enhanced Golden Apple: 更简单的附魔金苹果
 =======
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
-
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+这是一个Minecraft模组，复刻了旧版本中附魔金苹果的合成配方，并将其改为性能更强的**超级附魔金苹果**。
+- 更短的使用时间：仅需**1s**。
+- 更高效的状态恢复：仅需一个就能回满全部的**饥饿值**和**饱和度**。
+- 更强力的增益Buff：提供足足**5min**的**生命恢复Ⅴ**、**抗性提升Ⅴ**、**伤害吸收Ⅳ**、**抗火效果**。
+- 更简单的获取方式：仅需**1个苹果**+**8个金块**的“廉价”成本，让您***君临天下***!
