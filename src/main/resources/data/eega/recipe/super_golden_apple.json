@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GAG",
+    "GGG"
+  ],
+  "key": {
+    "A": "minecraft:apple",
+    "G": "minecraft:gold_block"
+  },
+  "result": {
+    "id": "eega:super_golden_apple",
+    "count": 1
+  }
+}
